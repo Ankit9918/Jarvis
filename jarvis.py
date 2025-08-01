@@ -1,4 +1,4 @@
-#  Import Required Libraries
+# ✅ Import Required Libraries
 import pyttsx3  # for text-to-speech
 import speech_recognition as sr  # for speech-to-text
 import datetime  # to get current time
@@ -18,7 +18,7 @@ import pyautogui  # for taking screenshots
 from dotenv import load_dotenv  # to load email credentials from .env
 import requests  # used for IP location tracking
 
-#  Load Environment Variables
+# ✅ Load Environment Variables
 load_dotenv()
 
 #  Text-to-speech function
